@@ -5,7 +5,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=for-the-badge&logo=mysql)
 
 
-API RESTful para um sistema de Lista de Tarefas (To-Do List), desenvolvida como um projeto de portfólio para demonstrar habilidades em desenvolvimento backend com Java e o ecossistema Spring. Este projeto foi criado como parte de um processo de apresentação para a Empresa Júnior da UFU.
+API RESTful para um sistema de Lista de Tarefas (To-Do List), desenvolvida como um projeto de portfólio para demonstrar habilidades em desenvolvimento backend com Java e o ecossistema Spring. Este projeto foi criado como parte de um processo de apresentação.
 
 ## Features
 
